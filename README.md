@@ -13,7 +13,7 @@ This repository contains a SQL Server-based Data Warehouse implementation follow
 
 - ETL processes written in T-SQL and organized by layer
 
--Dimensional modeling and surrogate key handling
+- Dimensional modeling and surrogate key handling
 
 - Partitioning, indexing, and performance tuning
 
