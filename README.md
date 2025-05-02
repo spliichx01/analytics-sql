@@ -11,13 +11,13 @@ This repository contains a SQL Server-based Data Warehouse implementation follow
 
 ### 🔧 Key Features:
 
-** ETL processes written in T-SQL and organized by layer **
+** ETL processes written in T-SQL and organized by layer
 
-** Dimensional modeling and surrogate key handling**
+** Dimensional modeling and surrogate key handling
 
-** Partitioning, indexing, and performance tuning**
+** Partitioning, indexing, and performance tuning
 
-Designed to integrate easily with BI tools like Power BI**
+**Designed to integrate easily with BI tools like Power BI
 
 This project showcases modular, layered data architecture that ensures clean separation of concerns, reusability, and scalability for real-world analytics solutions.
 
