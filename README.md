@@ -7,6 +7,7 @@ This repository is structured for clarity, reusability, and cross-functional col
 ---
 
 ## Structure
+```text
 analytics-sql/
 .
 │
@@ -29,7 +30,11 @@ analytics-sql/
 │       └── ...
 │
 ├── LICENSE                    
-└── README.md                 
+└── README.md    
+
+```
+
+---
 
 ## Use Cases
 
